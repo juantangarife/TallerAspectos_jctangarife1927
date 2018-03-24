@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//source/uniandes/cupi2/impuestosCarro/interfaz/InterfazImpuestosCarro.java=ISO-8859-1
+encoding//source/uniandes/cupi2/impuestosCarro/interfaz/PanelBusquedas.java=ISO-8859-1
+encoding//source/uniandes/cupi2/impuestosCarro/interfaz/PanelDescuentos.java=ISO-8859-1
+encoding//source/uniandes/cupi2/impuestosCarro/interfaz/PanelNavegacion.java=ISO-8859-1
+encoding//source/uniandes/cupi2/impuestosCarro/interfaz/PanelVehiculo.java=ISO-8859-1
+encoding//source/uniandes/cupi2/impuestosCarro/mundo/CalculadorImpuestos.java=ISO-8859-1
+encoding//source/uniandes/cupi2/impuestosCarro/mundo/RangoImpuesto.java=ISO-8859-1
+encoding//source/uniandes/cupi2/impuestosCarro/mundo/Vehiculo.java=ISO-8859-1
+encoding//test/source/uniandes/cupi2/impuestosCarro/test/CalculadorImpuestosTest.java=ISO-8859-1
+encoding//test/source/uniandes/cupi2/impuestosCarro/test/RangoImpuestoTest.java=ISO-8859-1
+encoding//test/source/uniandes/cupi2/impuestosCarro/test/VehiculoTest.java=ISO-8859-1
