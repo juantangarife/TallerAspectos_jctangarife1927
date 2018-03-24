@@ -2,7 +2,7 @@ package uniandes.cupi2.impuestosCarro.jc_tangarife1927.aspects;
 
 public aspect Logger {
 	pointcut logger():
-		execution(* uniandes.cupi2.impuestosCarro.mundo..*(..));
+		call(* uniandes.cupi2.impuestosCarro.mundo..*(..));
 
 	before(): logger(){
 		System.out.println("--- Logger ---");
