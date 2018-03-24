@@ -1,0 +1,4 @@
+3
+Ferrari,California,2016,150000000,ferrari_california.jpg
+Maserati,Levante,2015,1325000500,maserati_levante.jpg
+Mustang,Shelby,2012,500000000,mustang_shelby.jpg
