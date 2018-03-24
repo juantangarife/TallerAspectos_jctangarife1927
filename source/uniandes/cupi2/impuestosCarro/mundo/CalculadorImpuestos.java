@@ -400,9 +400,9 @@ public class CalculadorImpuestos
      * Método para la extensión 2 del ejercicio.
      * @return Respuesta 2.
      */
-    public String metodo2( )
+    public String metodo2( ) throws Exception
     {
-        return "Respuesta 2";
+    	throw new Exception("Excepción del método 2");
     }
 
 }

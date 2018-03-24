@@ -105,7 +105,7 @@ public class PanelOpciones extends JPanel implements ActionListener
         btnOpcion1.addActionListener( this );
         add(btnOpcion1);
 
-        btnOpcion2 = new JButton( "Opción 2" );
+        btnOpcion2 = new JButton( "Lanzar Excepción" );
         btnOpcion2.setActionCommand( OPCION_2 );
         btnOpcion2.addActionListener( this );
         add(btnOpcion2);

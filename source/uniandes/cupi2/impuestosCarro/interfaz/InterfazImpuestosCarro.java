@@ -278,8 +278,15 @@ public class InterfazImpuestosCarro extends JFrame
      */
     public void reqFuncOpcion2( )
     {
-        String respuesta = calculador.metodo2( );
-        JOptionPane.showMessageDialog( this, respuesta, "Respuesta", JOptionPane.INFORMATION_MESSAGE );
+    	String respuesta = "";
+    	try {
+    		respuesta = calculador.metodo2( );
+            
+    	}
+    	catch(Exception e) {
+    		respuesta = e.getMessage();
+    	}
+    	JOptionPane.showMessageDialog( this, respuesta, "Respuesta", JOptionPane.INFORMATION_MESSAGE );
     }
 
     // -----------------------------------------------------------------
